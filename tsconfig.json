@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "esnext",
+    "lib": ["es6", "dom", "es2017"],
+    "jsx": "react",
+    "strict": true,
+    "noImplicitAny": true,
+    "baseUrl": "./src/",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "removeComments": false,
+    "moduleResolution": "node",
+  },
+  "exclude": [".cache", "android", "build", "dist"]
+}

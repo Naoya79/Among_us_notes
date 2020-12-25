@@ -1,0 +1,11 @@
+.cache/
+build/
+dist/
+docs/
+node_modules/
+.eslintcache
+.idea/
+/test-coverage
+_*
+.DS_Store
+
