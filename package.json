@@ -16,7 +16,7 @@
     "deploynext": "gh-pages -d dist -e ./next",
     "lint": "eslint ./src/ --cache --fix --ext .ts,.tsx"
   },
-  "homepage": "http://Naoya79.github.io/fusliez-notes",
+  "homepage": "http://Naoya79.github.io/Among_us_notes",
   "author": "Kedyn Macedonio",
   "license": "MIT",
   "dependencies": {
