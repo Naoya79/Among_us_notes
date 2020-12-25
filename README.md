@@ -1,3 +1,5 @@
+Clone from https://github.com/Kedyn/fusliez-notes.git
+
 # fusliez-notes
 
 A web to help keep track of among us game.
