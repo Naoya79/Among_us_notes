@@ -19,9 +19,8 @@ export const DEFAULT_SECTIONS: Array<IPlayersSection> = [
   { id: 0, title: "main.lists.innocent", players: [] },
   { id: 1, title: "main.lists.suspicious", players: [] },
   { id: 2, title: "main.lists.dead", players: [] },
-  { id: 3, title: "main.lists.usebutton", players: [] },
-  { id: 4, title: "main.lists.unknown", players: DEFAULT_PLAYERS },
-  { id: 5, title: "main.lists.unused", players: [] },
+  { id: 3, title: "main.lists.unknown", players: DEFAULT_PLAYERS },
+  { id: 4, title: "main.lists.unused", players: [] },
 ];
 
-export const DEFAULT_SECTION = 4;
+export const DEFAULT_SECTION = 3;
