@@ -1,4 +1,4 @@
-Clone from https://github.com/Kedyn/fusliez-notes.git
+Cloned from https://github.com/Kedyn/fusliez-notes.git
 
 # fusliez-notes
 
